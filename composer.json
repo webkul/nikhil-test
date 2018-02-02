@@ -1,0 +1,13 @@
+{
+    "name": "webkul/nikhil-enterprise",
+    "description": "fake description",    
+    "type": "test-module",
+    "version": "v1.0.0",
+    "version_normalized": "1.0.0.0",
+    "license": [
+        "proprietary"
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    }
+}
