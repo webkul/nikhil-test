@@ -1,9 +1,9 @@
 {
-    "name": "webkul/nikhil-enterprise",
+    "name": "webkul/nikhil-test",
     "description": "fake description",    
-    "type": "test-module",
-    "version": "v1.0.0",
-    "version_normalized": "1.0.0.0",
+    "type": "test-module-2",
+    "version": "v2.0.0",
+    "version_normalized": "2.0.0.0",
     "license": [
         "proprietary"
     ],
